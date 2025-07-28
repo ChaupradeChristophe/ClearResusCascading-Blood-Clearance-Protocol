@@ -107,11 +107,11 @@
   - Sustainability: Non-Petroleum Solvents, >90% Recycling, >40% Energy Reduction
   - Blood Groups: A+, A-, B+, B-, AB+, AB-, O+, O- Compatibility
 - ## Validated References
-  - McKernan, K., et al., 2025: Synthetic mRNA Vaccines and Transcriptomic Dysregulation, Preprints, DOI: 10.20944/preprints202507.2155.v1
+  - McKernan, K., et al., 2025: Synthetic mRNA Vaccines and Transcriptomic Dysregulation, Preprints, DOI: 10.20944/preprints202507.2155.v1, https://www.preprints.org/manuscript/202507.2155/v1
   - Vaxtherapy, 2025: Diseases 13(7), 204, https://www.mdpi.com/2079-9721/13/7/204
   - Xu et al., 2025: Histotripsy: A Method for Mechanical Tissue Ablation, PMC11837764, https://pmc.ncbi.nlm.nih.gov/articles/PMC11837764/
   - Frolova et al., 2025: SARS-CoV-2 induces Alzheimer’s disease–related amyloid-β pathology, PMC12227045, https://pmc.ncbi.nlm.nih.gov/articles/PMC12227045/
-  - Schettler, S., et al., 2025: Fragments of viral surface proteins modulate innate immune responses via formyl peptide receptors, iScience, DOI: 10.1016/j.isci.2025.110280
+  - Schettler, S., et al., 2025: Fragments of viral surface proteins modulate innate immune responses via formyl peptide receptors, iScience, DOI: 10.1016/j.isci.2025.110280,  https://pubmed.ncbi.nlm.nih.gov/40703440/
   - Ryan, F., et al., 2023: Detection of Vaccine Plasmid DNA in Blood Samples Post-Vaccination, J. Mol. Med. 45(3), 123–135, DOI: 10.1007/s00109-023-02345-6
   - Odak, I., et al., 2024: Persistent Spike Protein and Plasmid DNA in Vaccinated Individuals, Nat. Biotechnol. 42(1), 89–97, DOI: 10.1038/s41587-024-02189-7
   - Knoblich, J.A., et al., 2024: Immune Dysregulation Induced by Vaccine-Derived Spike Protein, Immunity 47(4), 567–578, DOI: 10.1016/j.immuni.2024.04.012
