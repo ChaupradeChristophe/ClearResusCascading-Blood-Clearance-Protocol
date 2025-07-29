@@ -18,16 +18,20 @@
   <script src="https://cdn.jsdelivr.net/npm/markmap-view@0.18.12/dist/browser/index.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/markmap-toolbar@0.18.12/dist/index.js"></script>
   <script>
+    console.log('Starting fetch for markmap.md');
     fetch('/ClearResusCascading-Blood-Clearance-Protocol/markmap/markmap.md')
       .then(res => {
+        console.log('Fetch response status:', res.status);
         if (!res.ok) {
-          document.getElementById('error').textContent = 'Error: Could not load markmap.md';
+          document.getElementById('error').textContent = 'Error: Could not load markmap.md (Status: ' + res.status + ')';
           throw new Error('Failed to load markmap.md');
         }
         return res.text();
       })
       .then(data => {
+        console.log('Markmap.md content loaded:', data);
         window.markmap.Markmap.create('svg#mindmap', null, data);
+        console.log('Markmap created successfully');
         const toolbar = new window.markmap.Toolbar();
         toolbar.attach(window.mm);
         const toolbarEl = toolbar.render();
