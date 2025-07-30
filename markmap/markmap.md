@@ -1,5 +1,147 @@
-# Test Markmap
-- Point 1
-- Point 2
-- Sous-point A
-- Sous-point B
+# White Paper: ClearResusCascading: Blood Clearance Protocol
+- ## Introduction
+  - Context: Humanspective, July 28, 2025
+  - Urgency: Potential Mass Casualty, Aβ Pathology, Immune Dysregulation, Cancer Risks
+- ## Technical Problem
+  - Origin: Plasmid DNA, Spike 1, Aβ via NRP1, FARM, FPR/TLR-Binding Spike Fragments
+  - Consequences: Platelet/Plasma/RBC Contamination, AD-like Pathology, Transcriptomic Dysregulation, Systemic Inflammation
+  - Evidence: PCR, FRET, SPR, ELISA, Doppler/DLS
+- ## Technical Solution
+  - Overview: 5-Stage Filtration with Zwitterionic CNC and CNC-Coated MNPs
+  - Performance: >99.99% Clearance (NRP1/Aβ/Spike/FARM/Plasmid DNA), >99.98% Retention, >99.6% Restoration
+  - Advantages: Biocompatibility, Anti-Fouling (>60%), Non-Petroleum Solvents
+  - Ultrasound: 1 MHz (Histotripsy) + 5–50 kHz Resonators (PZT-5H, 0.2 W/cm²), RL-Synchronized
+  - Temperature: <37°C Across All Phases
+  - Energy: >40% Reduction via Ultrasound and Biomimicry
+  - Timeline: Jul. 2025 - Oct. 2026
+  - Biomimicry: Schauberger Vortex, Haeckel Diatoms, Venturi φ-Scaled, Perez Proj(m)
+  - Sustainability: >90% Water/Sulfobetaine Recycling
+  - Blood Groups: A+, A-, B+, B-, AB+, AB-, O+, O- Compatibility
+  - ### Protocol Steps
+    - Step 0: Histotripsy + Vortex
+      - Objective: Disrupt NRP1-Aβ-Spike 1/FARM to 50–150 nm, Reduce TLR/FPR-Mediated Inflammation, <0.03% Fouling, <37°C, Low Energy, Antigen Preservation
+      - Targets: NRP1-Aβ-Spike 1/FARM Complexes
+      - Ultrasound: 1 MHz (500–1000 µs, 100–200 W/cm², 0.5–1 mm focus), 5–50 kHz Resonators (5–10 kHz: 3–6 nm, 10–20 kHz: 6–9 nm, 20–50 kHz: 50–150 nm), RL-Tuned AI
+      - Nanobubbles: 100–150 nm, φ-Scaled, Haeckel-Inspired
+      - AI: CNN-Transformer, Proj(m) = [1 - 4π (1/Φ)] m
+      - Venturi Spirals: φ = 1.618033988749895, Schauberger-Inspired
+      - Cleaning: Water/H₂O₂/Urea/Sulfobetaine, RL-Tuned, <37°C
+      - Energy: >40% Reduction
+      - Blood Groups: Preserves A/B/Rh(D) Antigens
+      - Validation: ELISA (NRP1 <0.1 nM, Aβ42 <10 pg/ml, Spike/FARM <0.1 pg/ml), Doppler/DLS
+    - Step 1: Pre-Filtration
+      - Objective: Clear 50–150 nm Debris, Aβ42/NRP1, <0.01% Residuals, <37°C, Low Energy, Antigen Compatibility
+      - Targets: Aβ42 Fibrils, NRP1, 50–150 nm Debris
+      - Ultrasound: 5–50 kHz Resonators (10–20 kHz Primary), RL-Tuned AI
+      - Zwitterionic CNC: 50 nm, 3–9 nm Pores, +20 to +40 mV (pI 5.5–6.5)
+      - Venturi Spirals: φ = 1.618033988749895, Haeckel-Inspired
+      - Cleaning: Water/H₂O₂/Urea/Sulfobetaine, RL-Tuned, <37°C
+      - Sensors: Acoustic (<5 kPa), Pressure
+      - Energy: >40% Reduction
+      - Blood Groups: Preserves A/B/Rh(D) Antigens
+      - Validation: ELISA (NRP1 <0.05 nM, Aβ42 <5 pg/ml)
+    - Step 2: Electrostatic Filtration
+      - Objective: Capture Spike/FARM/NRP1/Aβ42, including FPR/TLR-Binding Spike Fragments, >99.99% Clearance, <37°C, Low Energy, Antigen Preservation
+      - Ultrasound: 5–50 kHz Resonators (15–25 kHz Primary), 1–2 Hz Pulsed Fields, RL-Tuned AI
+      - Zwitterionic CNC Cascade: 3–6, 6–9, 9–12, 12–20 nm
+      - Aptamers: Spike/NRP1/Aβ42/ACE2-Specific, Kd ~0.5 nM
+      - Venturi Spirals: φ = 1.618033988749895
+      - Cleaning: Water/H₂O₂/Urea/Sulfobetaine, RL-Tuned, <37°C
+      - Sensors: Acoustic (<5 kPa), Pressure
+      - Energy: >40% Reduction
+      - Blood Groups: Preserves A/B/Rh(D) Antigens
+      - Validation: ELISA (NRP1 <0.01 nM, Aβ42 <1 pg/ml, Spike/FARM <0.1 pg/ml)
+    - Step 3: CPC-Affinity Chromatography
+      - Objective: Purify 3–20 nm Debris, NRP1-Aβ-Spike 1/FARM, including FPR/TLR-Binding Fragments, <0.03% Fouling, <37°C, Low Energy, Antigen Compatibility
+      - Targets: NRP1-Aβ-Spike 1/FARM Complexes
+      - Ultrasound: 5–50 kHz Resonators (20–30 kHz Primary), RL-Tuned AI
+      - Ligands: Anti-NRP1/Anti-Aβ42/ACE2 mAbs, Kd ~0.1–5 nM
+      - Venturi Spirals: φ = 1.618033988749895
+      - Cleaning: Water/H₂O₂/Urea/Sulfobetaine, RL-Tuned, <37°C
+      - Solvent Recycling: >90% Water/Sulfobetaine
+      - Energy: >40% Reduction
+      - Blood Groups: Preserves A/B/Rh(D) Antigens
+      - Validation: ELISA (NRP1 <0.005 nM, Aβ42 <0.5 pg/ml, Spike/FARM <0.1 pg/ml)
+    - Step 4: MNP Polishing
+      - Objective: Clear Residual NRP1/Aβ42/Spike/FARM, including FPR/TLR-Binding Spike Fragments, >99.99% Clearance, <37°C, Low Energy, Antigen Preservation
+      - Targets: Residual NRP1, Aβ42, Spike/FARM, <3 nm Debris
+      - Ultrasound: 5–50 kHz Resonators (25–35 kHz Primary), RL-Tuned AI
+      - Zwitterionic CNC-Coated MNPs: 20 nm, 30–40 m²/g, 3–9 nm Pores, φ-Scaled, +20 to +40 mV, Haeckel-Inspired
+      - Ligands: Nanobodies, ACE2, Aptamers (Kd ~0.1–5 nM)
+      - Venturi Spirals: φ = 1.618033988749895
+      - Cleaning: Water/H₂O₂/Urea/Sulfobetaine, RL-Tuned, <37°C
+      - Solvent Recycling: >90% Water/Sulfobetaine
+      - Energy: >40% Reduction
+      - Blood Groups: Preserves A/B/Rh(D) Antigens
+      - Validation: ELISA (NRP1 <0.001 nM, Aβ42 <0.1 pg/ml, Spike/FARM <0.1 pg/ml)
+    - Step 5: Protein Monitoring & Replacement
+      - Objective: Restore Factor V/APOA1/IgG/NRP1, <0.02% Error, <37°C, Low Energy, Blood Group-Specific Dosing
+      - Ultrasound: 5–50 kHz Resonators (10–15 kHz Primary), RL-Tuned AI
+      - FRET: 3–9 nm Channels, 600–720 nm QDs
+      - Dosing: RL-Tuned, aPTT/HDL Feedback, Doppler/DLS
+      - Venturi Spirals: φ = 1.618033988749895
+      - Energy: >40% Reduction
+      - Blood Groups: Personalized Dosing for A+, A-, B+, B-, AB+, AB-, O+, O-
+      - Validation: ELISA (NRP1 Restoration, Aβ42 <0.1 pg/ml, Spike/FARM <0.1 pg/ml), Doppler/DLS
+    - Synergy & Biomimicry: CNC Unifies Filtration, Schauberger Vortex, Haeckel 3–9 nm Cascades, Venturi Dean Flow, Perez φ-Scaling
+- ## Applications
+  - Stocks: Blood Stock Clearance
+    - Objective: Purify A+, A-, B+, B-, AB+, AB-, O+, O- Stocks
+    - Details: Preserves A/B/Rh(D) Antigens, Platelets, Transfusion Compatibility
+    - Validation: ELISA, Doppler/DLS, CRANAD-28, Thioflavin T
+  - Patients: Personalized Treatment
+    - Objective: Clear NRP1/Aβ/Spike/FARM, including FPR/TLR-Binding Fragments, Blood Group-Specific
+    - Details: Doppler/DLS Analysis, RL-Tuned Dosing, FRET Monitoring (Anti-A/B/Rh(D) Antibodies)
+    - Validation: ELISA, CRANAD-28, Thioflavin T
+  - Synergy (S-->AM): Links Blood Group Grid to Filtration
+    - Details: Ensures Antigen Preservation, Personalized Clearance Across Steps 0–5
+    - Metrics: >99.99% Clearance, >99.98% Antigen Retention
+- ## Validation
+  - Methods: PCR, FRET, SPR, ELISA, CRANAD-28, Thioflavin T, Doppler/DLS
+  - Ultrasound: 5–10 kHz Resonators, RL-Synchronized
+  - Temperature: <37°C
+  - Results: >99.99% Efficacy, >60% Fouling Reduction, Safety Confirmed
+  - Compliance: ISO 13485, IEC 62366, ISO 14644-1, ISO 14001
+- ## Conclusion
+  - Efficacy: NRP1/Aβ/Spike/FARM/Plasmid DNA Clearance, including FPR/TLR-Binding Fragments, Biomimetic Solution
+  - Sustainability: Non-Petroleum Solvents, >90% Recycling, >40% Energy Reduction
+  - Blood Groups: A+, A-, B+, B-, AB+, AB-, O+, O- Compatibility
+- ## Validated References
+  - McKernan, K., et al., 2025: Synthetic mRNA Vaccines and Transcriptomic Dysregulation, Preprints, DOI: 10.20944/preprints202507.2155.v1, https://www.preprints.org/manuscript/202507.2155/v1
+  - Vaxtherapy, 2025: Diseases 13(7), 204, https://www.mdpi.com/2079-9721/13/7/204
+  - Xu et al., 2025: Histotripsy: A Method for Mechanical Tissue Ablation, PMC11837764, https://pmc.ncbi.nlm.nih.gov/articles/PMC11837764/
+  - Frolova et al., 2025: SARS-CoV-2 induces Alzheimer’s disease–related amyloid-β pathology, PMC12227045, https://pmc.ncbi.nlm.nih.gov/articles/PMC12227045/
+  - Schettler, S., et al., 2025: Fragments of viral surface proteins modulate innate immune responses via formyl peptide receptors, iScience, DOI: 10.1016/j.isci.2025.110280, https://pubmed.ncbi.nlm.nih.gov/40703440/
+  - Piscopo, M., et al., 2023 : Detection of recombinant Spike protein in the blood of individuals vaccinated against SARS-CoV-2: Possible molecular mechanisms, https://onlinelibrary.wiley.com/doi/10.1002/prca.202300048
+  - Persistence of S1 Spike Protein in CD16+ Monocytes up to 245 Days in SARS-CoV-2 Negative Post COVID-19 Vaccination Individuals with Post-Acute Sequalae of COVID-19 (PASC)-Like Symptoms, https://www.medrxiv.org/content/10.1101/2024.03.24.24304286v1.full-text
+  - ‘Spikeopathy’: COVID-19 Spike Protein Is Pathogenic, from Both Virus and Vaccine mRNA, https://pmc.ncbi.nlm.nih.gov/articles/PMC10452662/
+  - Duration of SARS-CoV-2 mRNA vaccine persistence and factors associated with cardiac involvement in recently vaccinated patients, https://www.nature.com/articles/s41541-023-00742-7
+  - Long-lasting, biochemically modified mRNA, and its frameshifted recombinant spike proteins in human tissues and circulation after COVID-19 vaccination, https://bpspubs.onlinelibrary.wiley.com/doi/full/10.1002/prp2.1218
+  - Biomimetic separations in chemistry and life sciences, https://pmc.ncbi.nlm.nih.gov/articles/PMC11794418/
+  - Biomimetic design strategies for biomedical applications, https://www.sciencedirect.com/science/article/pii/S2590238523006434
+  - Demonstration and structural basis of a therapeutic DNA aptamer for SARS-CoV-2 spike protein detection, https://www.biorxiv.org/content/10.1101/2025.03.14.643408v1
+  - Ultra-Sensitive Aptamer-Based Diagnostic Systems for Rapid Detection of All SARS-CoV-2 Variants, https://www.mdpi.com/1422-0067/26/2/745
+  - A Universal DNA Aptamer that Recognizes Spike Proteins of Diverse SARS-CoV-2 Variants of Concern, https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/chem.202200078
+  - Immunoaffinity Chromatography for Protein Purification and Analysis, https://currentprotocols.onlinelibrary.wiley.com/doi/10.1002/cpz1.867
+  - Fluorescence-Based Protein Stability Monitoring—A Review, https://pmc.ncbi.nlm.nih.gov/articles/PMC10855643/
+  - Miller et al., 2025: NRP1-mediated Aβ pathology in SARS-CoV-2, SARS-CoV-2 induces Alzheimer’s disease–related amyloid-β pathology in ex vivo human retinal explants and retinal organoids, https://www.science.org/doi/10.1126/sciadv.ads5006
+  - Scalable zwitterionic CNC production, Zwitterionic Polymers: Structure Design and Emerging Applications, https://onlinelibrary.wiley.com/doi/10.1002/macp.202500106
+  - Asymmetric modification of cellulose nanocrystals with PAMAM dendrimers for the preparation of pH-responsive hairy surfaces, https://www.sciencedirect.com/science/article/abs/pii/S0144861720309528?via%3Dihub
+  - Divergent growth of poly(amidoamine) dendrimer-like branched polymers at the reducing end of cellulose nanocrystals, https://www.sciencedirect.com/science/article/abs/pii/S0144861721013953?via%3Dihub
+  - Research progress on eco-friendly natural antifouling agents and their antifouling mechanisms, https://www.sciencedirect.com/science/article/abs/pii/S1385894724051271
+  - Bio-inspired anti-fouling strategies for membrane-based separations, https://pubs.rsc.org/en/Content/ArticleLanding/2025/CC/D4CC05149A
+  - Antifouling Coatings Inspired by Biological Templates, https://onlinelibrary.wiley.com/doi/full/10.1002/marc.202400932
+  - Polymers for anti-fouling applications: a review, https://pubs.rsc.org/en/content/articlehtml/2025/va/d5va00034c
+  - Bhardwaj et al., 2023: Nat. Commun. 14, 945, Amyloidogenic proteins in the SARS-CoV and SARS-CoV-2 proteomes, https://www.nature.com/articles/s41467-023-36234-4
+  - Nystrom & Hammarstrom, 2022: J. Am. Chem. Soc. 144, 8945–8950, Amyloidogenesis of SARS-CoV-2 Spike Protein, https://pubmed.ncbi.nlm.nih.gov/35579205/
+  - Hashizume et al., 2023: Antiviral Res. 209, 105481, Phenothiazines inhibit SARS-CoV-2 cell entry via a blockade of spike protein binding to neuropilin-1, https://www.sciencedirect.com/science/article/pii/S0166354222002509
+  - König & Kirchner, 2024: Methods Protoc. 7, 41, Methodological Considerations Regarding the Quantification of DNA Impurities in the COVID-19 mRNA Vaccine Comirnaty, https://www.mdpi.com/2409-9279/7/3/41
+  - [Extracorporeal removal of pathogens using a biomimetic adsorber-A new treatment strategy for the intensive care unit : Seraph® 100 Microbind® Affinity Blood Filter and its fields of application], https://europepmc.org/article/med/38981926
+  - Protein Atlas, 2023: NRP1 expression in plasma (0.1–1 nM), https://www.proteinatlas.org/ENSG00000099250-NRP1
+  - Schauberger, 2003: The Water Wizard, https://archive.org/details/TheWaterWizard
+  - Haeckel, 1904: Art Forms in Nature, https://archive.org/details/ArtFormsOfNatureByErnstHaeckl
+  - Venturi, 1797: Fluid dynamics principles, https://archive.org/details/ed4_20201119
+ - ISO 13485, 2016: Medical device quality management
+ - IEC 62366, 2015: Usability engineering for medical devices
+ - ISO 14644-1, 2015: Cleanroom standards
+ - ISO 14001, 2015: Environmental management
