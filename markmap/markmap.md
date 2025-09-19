@@ -1,6 +1,6 @@
 # White Paper: ClearResusCascading: Blood Clearance Protocol
 - ## Introduction
-  - Context: Humanspective, July 28, 2025
+  - Context: Humanspective, September 18, 2025
   - Urgency: Potential Mass Casualty, Aβ Pathology, Immune Dysregulation, Cancer Risks
 - ## Technical Problem
   - Origin: Plasmid DNA, Spike 1, Aβ via NRP1, FARM, FPR/TLR-Binding Spike Fragments
@@ -13,8 +13,8 @@
   - Ultrasound: 1 MHz (Histotripsy) + 5–50 kHz Resonators (PZT-5H, 0.2 W/cm²), RL-Synchronized
   - Temperature: <37°C Across All Phases
   - Energy: >40% Reduction via Ultrasound and Biomimicry
-  - Timeline: Jul. 2025 - Oct. 2026
-  - Biomimicry: Schauberger Vortex, Haeckel Diatoms, Venturi φ-Scaled, Perez Proj(m)
+  - Timeline: Sep.2025 - Sep.2026
+  - Biomimicry: Schauberger Vortex, Haeckel Diatoms, Venturi φ-Scaled, Perez Proj(m) = [1 - (4π √φφφ²)] m, which simplifies to Proj(m) = [1 - 4π (1/Φ)] m
   - Sustainability: >90% Water/Sulfobetaine Recycling
   - Blood Groups: A+, A-, B+, B-, AB+, AB-, O+, O- Compatibility
   - ### Protocol Steps
@@ -89,7 +89,7 @@
     - Objective: Purify A+, A-, B+, B-, AB+, AB-, O+, O- Stocks
     - Details: Preserves A/B/Rh(D) Antigens, Platelets, Transfusion Compatibility
     - Validation: ELISA, Doppler/DLS, CRANAD-28, Thioflavin T
-  - Patients: Personalized Treatment
+  - Patients: Personalized Treatment, "Lumbrokinase", "Nattokinase (NK)", "Serrapeptase" 
     - Objective: Clear NRP1/Aβ/Spike/FARM, including FPR/TLR-Binding Fragments, Blood Group-Specific
     - Details: Doppler/DLS Analysis, RL-Tuned Dosing, FRET Monitoring (Anti-A/B/Rh(D) Antibodies)
     - Validation: ELISA, CRANAD-28, Thioflavin T
@@ -110,6 +110,8 @@
   - McKernan, K., et al., 2025: Synthetic mRNA Vaccines and Transcriptomic Dysregulation, Preprints, DOI: 10.20944/preprints202507.2155.v1, https://www.preprints.org/manuscript/202507.2155/v1
   - Vaxtherapy, 2025: Diseases 13(7), 204, https://www.mdpi.com/2079-9721/13/7/204
   - Xu et al., 2025: Histotripsy: A Method for Mechanical Tissue Ablation, PMC11837764, https://pmc.ncbi.nlm.nih.gov/articles/PMC11837764/
+  - Low intensity ultrasound lysis of amyloid microclots in a lab on chip model, bioengineering, https://www.frontiersin.org/journals/bioengineering-and-biotechnology/articles/10.3389/fbioe.2025.1604447/full
+  - Acoustofluidics – changing paradigm in tissue engineering, therapeutics development, and biosensing, https://www.researchgate.net/publication/368677481_Acoustofluidics_-_changing_paradigm_in_tissue_engineering_therapeutics_development_and_biosensing
   - Frolova et al., 2025: SARS-CoV-2 induces Alzheimer’s disease–related amyloid-β pathology, PMC12227045, https://pmc.ncbi.nlm.nih.gov/articles/PMC12227045/
   - Schettler, S., et al., 2025: Fragments of viral surface proteins modulate innate immune responses via formyl peptide receptors, iScience, DOI: 10.1016/j.isci.2025.110280, https://pubmed.ncbi.nlm.nih.gov/40703440/
   - Piscopo, M., et al., 2023 : Detection of recombinant Spike protein in the blood of individuals vaccinated against SARS-CoV-2: Possible molecular mechanisms, https://onlinelibrary.wiley.com/doi/10.1002/prca.202300048
