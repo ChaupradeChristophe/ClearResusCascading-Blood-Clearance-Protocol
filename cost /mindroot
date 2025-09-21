@@ -1,0 +1,44 @@
+mindroot = {
+    "ClearResusCascading": {
+        "10,000-L Module": {
+            "CapEx": [
+                {"Histotripsy console": 285000},
+                {"Resonator array": 85000},
+                {"CNC synthesis skid": 90000},
+                {"CNC-MNP polishing line": 110000},
+                {"CPC chromatography": 75000},
+                {"Microfluidic cartridges": 60000},
+                {"RL-AI control box": 25000},
+                {"Clean-room fit-out": 80000},
+                {"Total": 810000}
+            ],
+            "OpEx": [
+                {"CNC re-make": 18000},
+                {"MNP ligand renewal": 22000},
+                {"Transducer tips": 6000},
+                {"QC consumables": 9000},
+                {"Power": 400},
+                {"Recycling": 2000},
+                {"Labor": 130000},
+                {"Total": 187400}
+            ],
+            "Cost per Liter": {
+                "CapEx share": 27.00,
+                "OpEx share": 18.74,
+                "Overhead": 9.15,
+                "Total": 54.89
+            }
+        },
+        "100,000-L Hub": {
+            "CapEx": {"Total": 8100000},
+            "OpEx": {"Total": 1874000},
+            "Cost per Liter": {"Total": 42.29}
+        },
+        "Regulatory": {"Dossier": 1200000},
+        "Scalability Notes": [
+            "38% CapEx reduction per liter at 100,000-L",
+            "Disposable cartridges: +$5/L OpEx, -$2-3/L CapEx",
+            "Regulatory dossier separate"
+        ]
+    }
+}
