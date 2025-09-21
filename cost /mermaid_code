@@ -1,0 +1,43 @@
+mermaid_code = """
+    %%{init: {'theme': 'base'}}%%
+    flowchart TD
+        A[ClearResusCascading] --> B(10,000-L Module)
+        A --> C(100,000-L Hub)
+        A --> D(Regulatory)
+        A --> E(Scalability Notes)
+        
+        B --> B1[CapEx: $810,000]
+        B --> B2[OpEx: $187,400/yr]
+        B --> B3[Cost per Liter: $54.89]
+        
+        B1 --> B1a[Histotripsy: $285K]
+        B1 --> B1b[Resonators: $85K]
+        B1 --> B1c[CNC Skid: $90K]
+        B1 --> B1d[Polishing Line: $110K]
+        B1 --> B1e[CPC: $75K]
+        B1 --> B1f[Cartridges: $60K]
+        B1 --> B1g[AI Box: $25K]
+        B1 --> B1h[Clean Room: $80K]
+        
+        B2 --> B2a[CNC Re-make: $18K]
+        B2 --> B2b[MNP Ligands: $22K]
+        B2 --> B2c[Transducer Tips: $6K]
+        B2 --> B2d[QC: $9K]
+        B2 --> B2e[Power: $0.4K]
+        B2 --> B2f[Recycling: $2K]
+        B2 --> B2g[Labor: $130K]
+        
+        B3 --> B3a[CapEx Share: $27.00]
+        B3 --> B3b[OpEx Share: $18.74]
+        B3 --> B3c[Overhead: $9.15]
+        
+        C --> C1[CapEx: $8.1M]
+        C --> C2[OpEx: $1.874M/yr]
+        C --> C3[Cost per Liter: $42.29]
+        
+        D --> D1[Dossier: $1.2M]
+        
+        E --> E1[38% CapEx reduction]
+        E --> E2[Disposable Cartridges]
+        E --> E3[Regulatory Separate]
+    """
