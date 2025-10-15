@@ -1,6 +1,6 @@
 # White Paper: ClearResusCascading: Blood Clearance Protocol
 - ## Introduction
-  - Context: Humanspective, September 18, 2025
+  - Context: September 18, 2025
   - Urgency: Potential Mass Casualty, Aβ Pathology, Immune Dysregulation, Cancer Risks
 - ## Technical Problem
   - Origin: Plasmid DNA, Spike 1, Aβ via NRP1, FARM, FPR/TLR-Binding Spike Fragments
@@ -107,6 +107,8 @@
   - Sustainability: Non-Petroleum Solvents, >90% Recycling, >40% Energy Reduction
   - Blood Groups: A+, A-, B+, B-, AB+, AB-, O+, O- Compatibility
 - ## Validated References
+  - Fibrin drives thromboinflammation and neuropathology in COVID-19: https://www.nature.com/articles/s41586-024-07873-4
+  - Double filtration plasmapheresis: Review of current clinical applications: https://pubmed.ncbi.nlm.nih.gov/32558286/
   - McKernan, K., et al., 2025: Synthetic mRNA Vaccines and Transcriptomic Dysregulation, Preprints, DOI: 10.20944/preprints202507.2155.v1, https://www.preprints.org/manuscript/202507.2155/v1
   - Vaxtherapy, 2025: Diseases 13(7), 204, https://www.mdpi.com/2079-9721/13/7/204
   - Xu et al., 2025: Histotripsy: A Method for Mechanical Tissue Ablation, PMC11837764, https://pmc.ncbi.nlm.nih.gov/articles/PMC11837764/
