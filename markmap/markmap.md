@@ -147,7 +147,8 @@
   - Broad-Spectrum In Vitro Activity and In Vivo Efficacy of the Antiviral Protein Griffithsin against Emerging Viruses of the Family Coronaviridae: https://journals.asm.org/doi/10.1128/jvi.02322-09
   - Griffithsin, a Highly Potent Broad-Spectrum Antiviral Lectin from Red Algae: From Discovery to Clinical Application: https://pmc.ncbi.nlm.nih.gov/articles/PMC6835697/
   - DyLight Fluors - Technology and Product Guide: https://archive.ph/20131017210757/http://www.piercenet.com/guide/dylight-fluors-technology-product-guide#selection-1189.0-1189.45 
-  - The Alexa Fluor Dye Series—Note 1.1: https://www.thermofisher.com/fr/fr/home/references/molecular-probes-the-handbook/technical-notes-and-product-highlights/the-alexa-fluor-dye-series.html 
+  - The Alexa Fluor Dye Series—Note 1.1: https://www.thermofisher.com/fr/fr/home/references/molecular-probes-the-handbook/technical-notes-and-product-highlights/the-alexa-fluor-dye-series.html
+  - Tesla Valve Microfluidics: The Rise of Forgotten Technology: https://www.mdpi.com/2227-9040/11/4/256
   - Protein Atlas, 2023: NRP1 expression in plasma (0.1–1 nM), https://www.proteinatlas.org/ENSG00000099250-NRP1
   - Schauberger, 2003: The Water Wizard, https://archive.org/details/TheWaterWizard
   - Haeckel, 1904: Art Forms in Nature, https://archive.org/details/ArtFormsOfNatureByErnstHaeckl
