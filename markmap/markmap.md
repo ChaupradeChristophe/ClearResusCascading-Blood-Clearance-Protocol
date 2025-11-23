@@ -89,7 +89,7 @@
     - Objective: Purify A+, A-, B+, B-, AB+, AB-, O+, O- Stocks
     - Details: Preserves A/B/Rh(D) Antigens, Platelets, Transfusion Compatibility
     - Validation: ELISA, Doppler/DLS, CRANAD-28, Thioflavin T
-  - Patients: Personalized Treatment, "Lumbrokinase", "Nattokinase (NK)", "Serrapeptase" 
+  - Patients: Personalized Treatment, Complements proteolytic enzymes (nattokinase, serrapeptase, lumbrokinase), Sequestrant (Sequestrol), Fucoidan (Laminaria Japonica Brown Sea Weed Extract, Griffithsin (GRFT) and antibodies (sotrovimab) for holistic blood purification.
     - Objective: Clear NRP1/Aβ/Spike/FARM, including FPR/TLR-Binding Fragments, Blood Group-Specific
     - Details: Doppler/DLS Analysis, RL-Tuned Dosing, FRET Monitoring (Anti-A/B/Rh(D) Antibodies)
     - Validation: ELISA, CRANAD-28, Thioflavin T
@@ -116,6 +116,7 @@
   - Xu et al., 2025: Histotripsy: A Method for Mechanical Tissue Ablation, PMC11837764, https://pmc.ncbi.nlm.nih.gov/articles/PMC11837764/
   - Low intensity ultrasound lysis of amyloid microclots in a lab on chip model, bioengineering, https://www.frontiersin.org/journals/bioengineering-and-biotechnology/articles/10.3389/fbioe.2025.1604447/full
   - Acoustofluidics – changing paradigm in tissue engineering, therapeutics development, and biosensing, https://www.researchgate.net/publication/368677481_Acoustofluidics_-_changing_paradigm_in_tissue_engineering_therapeutics_development_and_biosensing
+  -  Acoustic platforms for Sonoporation:https://www.researchgate.net/figure/Acoustic-platforms-for-sonoporation-and-gene-delivery-to-cells-and-tissue-A_fig6_368677481
   - Frolova et al., 2025: SARS-CoV-2 induces Alzheimer’s disease–related amyloid-β pathology, PMC12227045, https://pmc.ncbi.nlm.nih.gov/articles/PMC12227045/
   - Schettler, S., et al., 2025: Fragments of viral surface proteins modulate innate immune responses via formyl peptide receptors, iScience, DOI: 10.1016/j.isci.2025.110280, https://pubmed.ncbi.nlm.nih.gov/40703440/
   - Piscopo, M., et al., 2023 : Detection of recombinant Spike protein in the blood of individuals vaccinated against SARS-CoV-2: Possible molecular mechanisms, https://onlinelibrary.wiley.com/doi/10.1002/prca.202300048
@@ -143,6 +144,10 @@
   - Hashizume et al., 2023: Antiviral Res. 209, 105481, Phenothiazines inhibit SARS-CoV-2 cell entry via a blockade of spike protein binding to neuropilin-1, https://www.sciencedirect.com/science/article/pii/S0166354222002509
   - König & Kirchner, 2024: Methods Protoc. 7, 41, Methodological Considerations Regarding the Quantification of DNA Impurities in the COVID-19 mRNA Vaccine Comirnaty, https://www.mdpi.com/2409-9279/7/3/41
   - [Extracorporeal removal of pathogens using a biomimetic adsorber-A new treatment strategy for the intensive care unit : Seraph® 100 Microbind® Affinity Blood Filter and its fields of application], https://europepmc.org/article/med/38981926
+  - Broad-Spectrum In Vitro Activity and In Vivo Efficacy of the Antiviral Protein Griffithsin against Emerging Viruses of the Family Coronaviridae: https://journals.asm.org/doi/10.1128/jvi.02322-09
+  - Griffithsin, a Highly Potent Broad-Spectrum Antiviral Lectin from Red Algae: From Discovery to Clinical Application: https://pmc.ncbi.nlm.nih.gov/articles/PMC6835697/
+  - DyLight Fluors - Technology and Product Guide: https://archive.ph/20131017210757/http://www.piercenet.com/guide/dylight-fluors-technology-product-guide#selection-1189.0-1189.45 
+  - The Alexa Fluor Dye Series—Note 1.1: https://www.thermofisher.com/fr/fr/home/references/molecular-probes-the-handbook/technical-notes-and-product-highlights/the-alexa-fluor-dye-series.html 
   - Protein Atlas, 2023: NRP1 expression in plasma (0.1–1 nM), https://www.proteinatlas.org/ENSG00000099250-NRP1
   - Schauberger, 2003: The Water Wizard, https://archive.org/details/TheWaterWizard
   - Haeckel, 1904: Art Forms in Nature, https://archive.org/details/ArtFormsOfNatureByErnstHaeckl
