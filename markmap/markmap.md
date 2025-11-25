@@ -146,6 +146,7 @@
   - [Extracorporeal removal of pathogens using a biomimetic adsorber-A new treatment strategy for the intensive care unit : Seraph® 100 Microbind® Affinity Blood Filter and its fields of application], https://europepmc.org/article/med/38981926
   - Broad-Spectrum In Vitro Activity and In Vivo Efficacy of the Antiviral Protein Griffithsin against Emerging Viruses of the Family Coronaviridae, https://journals.asm.org/doi/10.1128/jvi.02322-09
   - Griffithsin, a Highly Potent Broad-Spectrum Antiviral Lectin from Red Algae: From Discovery to Clinical Application, https://pmc.ncbi.nlm.nih.gov/articles/PMC6835697/
+  - Defining diverse spike-receptor interactions involved in SARS-CoV-2 entry: Mechanisms and therapeutic opportunities,https://www.sciencedirect.com/science/article/pii/S0042682225001205
   - DyLight Fluors - Technology and Product Guide, https://archive.ph/20131017210757/http://www.piercenet.com/guide/dylight-fluors-technology-product-guide#selection-1189.0-1189.45 
   - The Alexa Fluor Dye Series—Note 1.1, https://www.thermofisher.com/fr/fr/home/references/molecular-probes-the-handbook/technical-notes-and-product-highlights/the-alexa-fluor-dye-series.html
   - Nikola Tesla U.S. Patent 1,329,559 - Valvular Conduit, https://teslauniverse.com/nikola-tesla/patents/us-patent-1329559-valvular-conduit
