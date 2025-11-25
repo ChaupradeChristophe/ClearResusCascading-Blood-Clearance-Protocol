@@ -1,6 +1,6 @@
 # White Paper: ClearResusCascading: Blood Clearance Protocol
 - ## Introduction
-  - Context: September 18, 2025
+  - Context: September, 2025
   - Urgency: Potential Mass Casualty, Aβ Pathology, Immune Dysregulation, Cancer Risks
 - ## Technical Problem
   - Origin: Plasmid DNA, Spike 1, Aβ via NRP1, FARM, FPR/TLR-Binding Spike Fragments
@@ -14,7 +14,7 @@
   - Temperature: <37°C Across All Phases
   - Energy: >40% Reduction via Ultrasound and Biomimicry
   - Timeline: Sep.2025 - Sep.2026
-  - Biomimicry: Schauberger Vortex, Haeckel Diatoms, Venturi φ-Scaled, Perez Proj(m) = [1 - (4π √φφφ²)] m, which simplifies to Proj(m) = [1 - 4π (1/Φ)] m
+  - Biomimicry: Schauberger Vortex, Haeckel Diatoms, Venturi φ-Scaled, Perez Proj(m) = [1 - (4π √φφφ²)] m, which simplifies to Proj(m) = [1 - [4π × 1/Φ^3.5]] m
   - Sustainability: >90% Water/Sulfobetaine Recycling
   - Blood Groups: A+, A-, B+, B-, AB+, AB-, O+, O- Compatibility
   - ### Protocol Steps
@@ -23,7 +23,7 @@
       - Targets: NRP1-Aβ-Spike 1/FARM Complexes
       - Ultrasound: 1 MHz (500–1000 µs, 100–200 W/cm², 0.5–1 mm focus), 5–50 kHz Resonators (5–10 kHz: 3–6 nm, 10–20 kHz: 6–9 nm, 20–50 kHz: 50–150 nm), RL-Tuned AI
       - Nanobubbles: 100–150 nm, φ-Scaled, Haeckel-Inspired
-      - AI: CNN-Transformer, Proj(m) = [1 - 4π (1/Φ)] m
+      - AI: CNN-Transformer, Proj(m) = [1 - [4π × 1/Φ^3.5]] m
       - Venturi Spirals: φ = 1.618033988749895, Schauberger-Inspired
       - Cleaning: Water/H₂O₂/Urea/Sulfobetaine, RL-Tuned, <37°C
       - Energy: >40% Reduction
@@ -107,16 +107,16 @@
   - Sustainability: Non-Petroleum Solvents, >90% Recycling, >40% Energy Reduction
   - Blood Groups: A+, A-, B+, B-, AB+, AB-, O+, O- Compatibility
 - ## Validated References
-  - Advances in Apheresis Techniques and Therapies in the Pediatric Setting:https://www.researchgate.net/figure/Double-filtration-plasmapheresis-DFPP-is-a-filter-based-therapeutic-procedure-that_fig2_363666372
-  - Fibrin drives thromboinflammation and neuropathology in COVID-19: https://www.nature.com/articles/s41586-024-07873-4
-  - Double filtration plasmapheresis: Review of current clinical applications: https://pubmed.ncbi.nlm.nih.gov/32558286/
-  - Therapeutic plasma exchange (or apheresis):https://www.researchgate.net/figure/Therapeutic-plasma-exchange-or-apheresis-is-a-procedure-in-which-patient-blood-is_fig1_363666372
+  - Advances in Apheresis Techniques and Therapies in the Pediatric Setting, https://www.researchgate.net/figure/Double-filtration-plasmapheresis-DFPP-is-a-filter-based-therapeutic-procedure-that_fig2_363666372
+  - Fibrin drives thromboinflammation and neuropathology in COVID-19, https://www.nature.com/articles/s41586-024-07873-4
+  - Double filtration plasmapheresis: Review of current clinical applications, https://pubmed.ncbi.nlm.nih.gov/32558286/
+  - Therapeutic plasma exchange (or apheresis), https://www.researchgate.net/figure/Therapeutic-plasma-exchange-or-apheresis-is-a-procedure-in-which-patient-blood-is_fig1_363666372
   - McKernan, K., et al., 2025: Synthetic mRNA Vaccines and Transcriptomic Dysregulation, Preprints, DOI: 10.20944/preprints202507.2155.v1, https://www.preprints.org/manuscript/202507.2155/v1
   - Vaxtherapy, 2025: Diseases 13(7), 204, https://www.mdpi.com/2079-9721/13/7/204
   - Xu et al., 2025: Histotripsy: A Method for Mechanical Tissue Ablation, PMC11837764, https://pmc.ncbi.nlm.nih.gov/articles/PMC11837764/
   - Low intensity ultrasound lysis of amyloid microclots in a lab on chip model, bioengineering, https://www.frontiersin.org/journals/bioengineering-and-biotechnology/articles/10.3389/fbioe.2025.1604447/full
   - Acoustofluidics – changing paradigm in tissue engineering, therapeutics development, and biosensing, https://www.researchgate.net/publication/368677481_Acoustofluidics_-_changing_paradigm_in_tissue_engineering_therapeutics_development_and_biosensing
-  -  Acoustic platforms for Sonoporation:https://www.researchgate.net/figure/Acoustic-platforms-for-sonoporation-and-gene-delivery-to-cells-and-tissue-A_fig6_368677481
+  -  Acoustic platforms for Sonoporation, https://www.researchgate.net/figure/Acoustic-platforms-for-sonoporation-and-gene-delivery-to-cells-and-tissue-A_fig6_368677481
   - Frolova et al., 2025: SARS-CoV-2 induces Alzheimer’s disease–related amyloid-β pathology, PMC12227045, https://pmc.ncbi.nlm.nih.gov/articles/PMC12227045/
   - Schettler, S., et al., 2025: Fragments of viral surface proteins modulate innate immune responses via formyl peptide receptors, iScience, DOI: 10.1016/j.isci.2025.110280, https://pubmed.ncbi.nlm.nih.gov/40703440/
   - Piscopo, M., et al., 2023 : Detection of recombinant Spike protein in the blood of individuals vaccinated against SARS-CoV-2: Possible molecular mechanisms, https://onlinelibrary.wiley.com/doi/10.1002/prca.202300048
@@ -144,16 +144,16 @@
   - Hashizume et al., 2023: Antiviral Res. 209, 105481, Phenothiazines inhibit SARS-CoV-2 cell entry via a blockade of spike protein binding to neuropilin-1, https://www.sciencedirect.com/science/article/pii/S0166354222002509
   - König & Kirchner, 2024: Methods Protoc. 7, 41, Methodological Considerations Regarding the Quantification of DNA Impurities in the COVID-19 mRNA Vaccine Comirnaty, https://www.mdpi.com/2409-9279/7/3/41
   - [Extracorporeal removal of pathogens using a biomimetic adsorber-A new treatment strategy for the intensive care unit : Seraph® 100 Microbind® Affinity Blood Filter and its fields of application], https://europepmc.org/article/med/38981926
-  - Broad-Spectrum In Vitro Activity and In Vivo Efficacy of the Antiviral Protein Griffithsin against Emerging Viruses of the Family Coronaviridae: https://journals.asm.org/doi/10.1128/jvi.02322-09
-  - Griffithsin, a Highly Potent Broad-Spectrum Antiviral Lectin from Red Algae: From Discovery to Clinical Application: https://pmc.ncbi.nlm.nih.gov/articles/PMC6835697/
-  - DyLight Fluors - Technology and Product Guide: https://archive.ph/20131017210757/http://www.piercenet.com/guide/dylight-fluors-technology-product-guide#selection-1189.0-1189.45 
-  - The Alexa Fluor Dye Series—Note 1.1: https://www.thermofisher.com/fr/fr/home/references/molecular-probes-the-handbook/technical-notes-and-product-highlights/the-alexa-fluor-dye-series.html
-  - Tesla Valve Microfluidics: The Rise of Forgotten Technology: https://www.mdpi.com/2227-9040/11/4/256
+  - Broad-Spectrum In Vitro Activity and In Vivo Efficacy of the Antiviral Protein Griffithsin against Emerging Viruses of the Family Coronaviridae, https://journals.asm.org/doi/10.1128/jvi.02322-09
+  - Griffithsin, a Highly Potent Broad-Spectrum Antiviral Lectin from Red Algae: From Discovery to Clinical Application, https://pmc.ncbi.nlm.nih.gov/articles/PMC6835697/
+  - DyLight Fluors - Technology and Product Guide, https://archive.ph/20131017210757/http://www.piercenet.com/guide/dylight-fluors-technology-product-guide#selection-1189.0-1189.45 
+  - The Alexa Fluor Dye Series—Note 1.1, https://www.thermofisher.com/fr/fr/home/references/molecular-probes-the-handbook/technical-notes-and-product-highlights/the-alexa-fluor-dye-series.html
+  - Tesla Valve Microfluidics, The Rise of Forgotten Technology: https://www.mdpi.com/2227-9040/11/4/256
   - Protein Atlas, 2023: NRP1 expression in plasma (0.1–1 nM), https://www.proteinatlas.org/ENSG00000099250-NRP1
   - Schauberger, 2003: The Water Wizard, https://archive.org/details/TheWaterWizard
   - Haeckel, 1904: Art Forms in Nature, https://archive.org/details/ArtFormsOfNatureByErnstHaeckl
   - Venturi, 1797: Fluid dynamics principles, https://archive.org/details/ed4_20201119
- - ISO 13485, 2016: Medical device quality management
- - IEC 62366, 2015: Usability engineering for medical devices
- - ISO 14644-1, 2015: Cleanroom standards
- - ISO 14001, 2015: Environmental management
+  - ISO 13485, 2016: Medical device quality management
+  - IEC 62366, 2015: Usability engineering for medical devices
+  - ISO 14644-1, 2015: Cleanroom standards
+  - ISO 14001, 2015: Environmental management
