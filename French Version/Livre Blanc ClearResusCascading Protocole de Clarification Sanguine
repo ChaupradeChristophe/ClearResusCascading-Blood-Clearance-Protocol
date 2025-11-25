@@ -1,6 +1,6 @@
 # Livre Blanc : ClearResusCascading : Protocole de Clarification Sanguine
 - ## Introduction
-  - Contexte : Humanspective, 18 septembre 2025
+  - Contexte : Septembre 2025
   - Urgence : Potentiel de catastrophes massives, pathologie Aβ, dérégulation immunitaire, risques de cancer
 - ## Problème Technique
   - Origine : ADN plasmidique, Spike 1, Aβ via NRP1, FARM, fragments de Spike liant FPR/TLR
@@ -14,7 +14,7 @@
   - Température : <37°C dans toutes les phases
   - Énergie : Réduction >40 % via ultrasons et biomimétisme
   - Chronologie : Sept. 2025 - Sept. 2026
-  - Biomimétisme : Vortex de Schauberger, diatomées de Haeckel, Venturi à échelle φ, Perez Proj(m) = [1 - (4π √φφφ²)] m, simplifié en Proj(m) = [1 - 4π (1/Φ)] m
+  - Biomimétisme : Vortex de Schauberger, diatomées de Haeckel, Venturi à échelle φ, Perez Proj(m) = [1 - (4π √φφφ²)] m, simplifié en Proj(m) = [1 - [4π × 1/Φ^3.5]] m
   - Durabilité : Recyclage >90 % de l'eau/sulfobétaïne
   - Groupes sanguins : Compatibilité avec A+, A-, B+, B-, AB+, AB-, O+, O-
   - ### Étapes du Protocole
@@ -23,7 +23,7 @@
       - Cibles : Complexes NRP1-Aβ-Spike 1/FARM
       - Ultrasons : 1 MHz (500–1000 µs, 100–200 W/cm², focus 0,5–1 mm), résonateurs 5–50 kHz (5–10 kHz : 3–6 nm, 10–20 kHz : 6–9 nm, 20–50 kHz : 50–150 nm), IA RL-ajustée
       - Nanobulles : 100–150 nm, à échelle φ, inspirées de Haeckel
-      - IA : CNN-Transformer, Proj(m) = [1 - 4π (1/Φ)] m
+      - IA : CNN-Transformer, Proj(m) = [1 - [4π × 1/Φ^3.5]] m
       - Spirales Venturi : φ = 1,618033988749895, inspirées de Schauberger
       - Nettoyage : Eau/H₂O₂/Uré/Sulfobétaïne, RL-ajusté, <37°C
       - Énergie : Réduction >40 %
@@ -89,7 +89,7 @@
     - Objectif : Purifier les stocks A+, A-, B+, B-, AB+, AB-, O+, O-
     - Détails : Préserve les antigènes A/B/Rh(D), plaquettes, compatibilité transfusionnelle
     - Validation : ELISA, Doppler/DLS, CRANAD-28, Thioflavine T
-  - Patients : Traitement personnalisé, "Lumbrokinase", "Nattokinase (NK)", "Serrapeptase"
+  - Patients : Traitement personnalisé, compléments d'enzymes protéolytiques (nattokinase, serrapeptase, lumbrokinase), séquestrant (Sequestrol), fucoïdane (extrait d'algue brune Laminaria Japonica), griffithsine (GRFT) et anticorps (sotrovimab) pour une purification sanguine holistique.
     - Objectif : Éliminer NRP1/Aβ/Spike/FARM, y compris les fragments liant FPR/TLR, spécifique au groupe sanguin
     - Détails : Analyse Doppler/DLS, dosage RL-ajusté, suivi FRET (anticorps anti-A/B/Rh(D))
     - Validation : ELISA, CRANAD-28, Thioflavine T
@@ -144,6 +144,10 @@
   - König & Kirchner, 2024 : Methods Protoc. 7, 41, Considérations méthodologiques concernant la quantification des impuretés d'ADN dans le vaccin à ARN messager Comirnaty, https://www.mdpi.com/2409-9279/7/3/41
   - [Retrait extracorporel de pathogènes à l'aide d'un adsorbant biomimétique - Une nouvelle stratégie de traitement pour l'unité de soins intensifs : Filtre sanguin d'affinité Seraph® 100 Microbind® et ses domaines d'application], https://europepmc.org/article/med/38981926
   - Microfluidique des vannes Tesla : l’essor d’une technologie oubliée : https://www.mdpi.com/2227-9040/11/4/256
+  - Activité in vitro à large spectre et efficacité in vivo de la protéine antivirale griffithsine contre les virus émergents de la famille des Coronaviridae, https://journals.asm.org/doi/10.1128/jvi.02322-09
+  - Griffithsine, une lectine antivirale à large spectre très puissante issue d'algues rouges : de la découverte à l'application clinique, https://pmc.ncbi.nlm.nih.gov/articles/PMC6835697/
+  - Fluorescence DyLight - Guide technologique et produit, https://archive.ph/20131017210757/http://www.piercenet.com/guide/dylight-fluors-technology-product-guide#selection-1189.0-1189.45
+  - Série de colorants Alexa Fluor - Note 1.1 https://www.thermofisher.com/fr/fr/home/references/molecular-probes-the-handbook/technical-notes-and-product-highlights/the-alexa-fluor-dye-series.html
   - Brevet américain de Nikola Tesla n° 1 329 559 - Conduit valvulaire, https://teslauniverse.com/nikola-tesla/patents/us-patent-1329559-valvular-conduit
   - Atlas des Protéines, 2023 : Expression de NRP1 dans le plasma (0,1–1 nM), https://www.proteinatlas.org/ENSG00000099250-NRP1
   - Schauberger, 2003 : Le Sorcier de l'Eau, https://archive.org/details/TheWaterWizard
