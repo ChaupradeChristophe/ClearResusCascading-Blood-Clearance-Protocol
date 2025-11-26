@@ -150,6 +150,8 @@
   - DyLight Fluors - Technology and Product Guide, https://archive.ph/20131017210757/http://www.piercenet.com/guide/dylight-fluors-technology-product-guide#selection-1189.0-1189.45 
   - The Alexa Fluor Dye Series—Note 1.1, https://www.thermofisher.com/fr/fr/home/references/molecular-probes-the-handbook/technical-notes-and-product-highlights/the-alexa-fluor-dye-series.html
   - Nikola Tesla U.S. Patent 1,329,559 - Valvular Conduit, https://teslauniverse.com/nikola-tesla/patents/us-patent-1329559-valvular-conduit
+  - Geometric Optimization of a Tesla Valve Through Machine Learning to Develop Fluid Pressure Drop Devices, https://www.mdpi.com/2311-5521/10/10/255
+  - Influence of Baffle Location on the Diodicity of Tesla Valves, https://www.mdpi.com/2076-3417/15/10/5526
   - Tesla Valve Microfluidics, The Rise of Forgotten Technology, https://www.mdpi.com/2227-9040/11/4/256
   - Protein Atlas, 2023: NRP1 expression in plasma (0.1–1 nM), https://www.proteinatlas.org/ENSG00000099250-NRP1
   - Schauberger, 2003: The Water Wizard, https://archive.org/details/TheWaterWizard
