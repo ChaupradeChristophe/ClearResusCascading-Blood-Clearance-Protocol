@@ -89,7 +89,7 @@
     - Objective: Purify A+, A-, B+, B-, AB+, AB-, O+, O- Stocks
     - Details: Preserves A/B/Rh(D) Antigens, Platelets, Transfusion Compatibility
     - Validation: ELISA, Doppler/DLS, CRANAD-28, Thioflavin T
-  - Patients: Personalized Treatment, Complements proteolytic enzymes (nattokinase, serrapeptase, lumbrokinase), Sequestrant (Sequestrol), Fucoidan (Laminaria Japonica Brown Sea Weed Extract, Griffithsin (GRFT) and antibodies (sotrovimab) for holistic blood purification.
+  - Patients: Personalized Treatment, Complements proteolytic enzymes (nattokinase, serrapeptase, lumbrokinase), Sequestrant (Sequestrol), Fucoidan (Laminaria Japonica Brown Sea Weed Extract, Griffithsin (GRFT), EGCG, NAC, Shilajit and antibodies (sotrovimab) for holistic blood purification.
     - Objective: Clear NRP1/Aβ/Spike/FARM, including FPR/TLR-Binding Fragments, Blood Group-Specific
     - Details: Doppler/DLS Analysis, RL-Tuned Dosing, FRET Monitoring (Anti-A/B/Rh(D) Antibodies)
     - Validation: ELISA, CRANAD-28, Thioflavin T
