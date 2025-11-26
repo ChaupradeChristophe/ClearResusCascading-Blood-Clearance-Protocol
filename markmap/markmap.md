@@ -149,11 +149,20 @@
   - Defining diverse spike-receptor interactions involved in SARS-CoV-2 entry: Mechanisms and therapeutic opportunities,https://www.sciencedirect.com/science/article/pii/S0042682225001205
   - DyLight Fluors - Technology and Product Guide, https://archive.ph/20131017210757/http://www.piercenet.com/guide/dylight-fluors-technology-product-guide#selection-1189.0-1189.45 
   - The Alexa Fluor Dye Series—Note 1.1, https://www.thermofisher.com/fr/fr/home/references/molecular-probes-the-handbook/technical-notes-and-product-highlights/the-alexa-fluor-dye-series.html
+    
   - Nikola Tesla U.S. Patent 1,329,559 - Valvular Conduit, https://teslauniverse.com/nikola-tesla/patents/us-patent-1329559-valvular-conduit
-  - A bio-fabricated tesla valves and ultrasound waves-powered blood plasma viscometer, https://www.frontiersin.org/journals/bioengineering-and-biotechnology/articles/10.3389/fbioe.2024.1394373/full 
-  - Geometric Optimization of a Tesla Valve Through Machine Learning to Develop Fluid Pressure Drop Devices, https://www.mdpi.com/2311-5521/10/10/255
-  - Influence of Baffle Location on the Diodicity of Tesla Valves, https://www.mdpi.com/2076-3417/15/10/5526
   - Tesla Valve Microfluidics, The Rise of Forgotten Technology, https://www.mdpi.com/2227-9040/11/4/256
+  - A bio-fabricated tesla valves and ultrasound waves-powered blood plasma viscometer, https://www.frontiersin.org/journals/bioengineering-and-biotechnology/articles/10.3389/fbioe.2024.1394373/full
+  - Ceramic Tesla valve, https://www.ikts.fraunhofer.de/en/departments/structural_ceramics/processes_and_components/additive_hybrid_manufacturing/cr_ceramic_tesla_valve.html
+  - Design and operation of a Tesla-type valve for pulsating heat pipes, https://pure.tue.nl/ws/files/32792817/1_s2.0_S0017931016310560_main.pdf
+  - Early turbulence and pulsatile flows enhance diodicity of Tesla’s macrofluidic valve,  https://www.nature.com/articles/s41467-021-23009-y
+  - Geometric Optimization of a Tesla Valve Through Machine Learning to Develop Fluid Pressure Drop Devices, https://www.mdpi.com/2311-5521/10/10/255
+  - Highly efficient passive Tesla valves for microfluidic applications, https://pmc.ncbi.nlm.nih.gov/articles/PMC9448783/
+  - Influence of Baffle Location on the Diodicity of Tesla Valves, https://www.mdpi.com/2076-3417/15/10/5526
+  - Scaling law of the one-direction flow characteristics of symmetric Tesla valve, https://www.tandfonline.com/doi/full/10.1080/19942060.2021.2023648
+  - Tesla valves and capillary structures-activated thermal regulator, https://pmc.ncbi.nlm.nih.gov/articles/PMC10325955/
+  - Transient Flow Dynamics in Tesla Valve Configurations: Insights from Computational Fluid Dynamics Simulations, https://www.mdpi.com/2073-4441/16/23/3492
+
   - Protein Atlas, 2023: NRP1 expression in plasma (0.1–1 nM), https://www.proteinatlas.org/ENSG00000099250-NRP1
   - Schauberger, 2003: The Water Wizard, https://archive.org/details/TheWaterWizard
   - Haeckel, 1904: Art Forms in Nature, https://archive.org/details/ArtFormsOfNatureByErnstHaeckl
