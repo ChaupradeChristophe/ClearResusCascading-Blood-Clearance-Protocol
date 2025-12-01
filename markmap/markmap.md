@@ -107,6 +107,10 @@
   - Sustainability: Non-Petroleum Solvents, >90% Recycling, >40% Energy Reduction
   - Blood Groups: A+, A-, B+, B-, AB+, AB-, O+, O- Compatibility
 - ## Validated References
+  - A review of acoustofluidic separation of bioparticles,https://link.springer.com/article/10.1007/s12551-023-01112-2#Fig2
+  - Acoustofluidics: Technology Advances and Applications from 2022 to 2024, https://pmc.ncbi.nlm.nih.gov/articles/PMC11983376/
+  - Single-Beam Acoustic Trapping of Red Blood Cells and Polystyrene Microspheres in Flowing Red Blood Cell Saline and Plasma Suspensions, https://www.umbjournal.org/article/S0301-5629(16)30422-7/abstract
+  - Recent Advancements in High-Frequency Ultrasound Applications from Imaging to Microbeam Stimulation, https://www.mdpi.com/1424-8220/24/19/6471
   - Advances in Apheresis Techniques and Therapies in the Pediatric Setting, https://www.researchgate.net/figure/Double-filtration-plasmapheresis-DFPP-is-a-filter-based-therapeutic-procedure-that_fig2_363666372
   - Fibrin drives thromboinflammation and neuropathology in COVID-19, https://www.nature.com/articles/s41586-024-07873-4
   - Double filtration plasmapheresis: Review of current clinical applications, https://pubmed.ncbi.nlm.nih.gov/32558286/
