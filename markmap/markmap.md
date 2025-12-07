@@ -174,6 +174,62 @@
   - Tesla Valves in Micromixers, https://www.degruyterbrill.com/document/doi/10.1515/ijcre-2013-0106/html?lang=en&srsltid=AfmBOorHz1ZwgLCK2Lro8a01ml9c4kxtYsiifC6n6MJ0w2osdL4vYVfe
   - Transient Flow Dynamics in Tesla Valve Configurations: Insights from Computational Fluid Dynamics Simulations, https://www.mdpi.com/2073-4441/16/23/3492
 
+  - A 2.6 MHz phased array ultrasonic probe using 0.67 Pb(Mg/sub 1/3, https://www.semanticscholar.org/paper/A-2.6-MHz-phased-array-ultrasonic-probe-using-sub-1-Rhim-Jung/c3034aad10748f220f6ac610249e2cd3de886162
+  - A Bioparticle Separator based on Dielectrophoretic Integrated with Acoustic Force: Design and Simulation, https://www.ijcaonline.org/archives/volume184/number3/dehghani-2022-ijca-921987.pdf
+  - Acoustofluidic Actuation of Living Cells (2024). PMC 11052308, https://pmc.ncbi.nlm.nih.gov/articles/PMC11052308/
+  - Acoustofluidics for biomedical applications, https://www.researchgate.net/publication/360082871_Acoustofluidics_for_biomedical_applications
+  - Acoustofluidics for biomedical applications, https://par.nsf.gov/servlets/purl/10391293
+  - Acoustofluidic Methods in Cell Analysis, https://www.sciencedirect.com/science/article/abs/pii/S0165993619302043
+	- Acoustofluidic Separation of Cells and Particles. Microsystems & Nanoengineering 5: 32, https://www.nature.com/articles/s41378-019-0064-3
+  - Acoustofluidics: Technology Advances and Applications from 2022 to 2024, https://pmc.ncbi.nlm.nih.gov/articles/PMC11983376/
+  - Acoustic Tweezers, https://acoustofluidics.pratt.duke.edu/research/acoustic-tweezers
+  - A high-throughput microfluidic device based on controlled incremental filtration to enable centrifugation-free, low extracorporeal volume leukapheresis, https://www.nature.com/articles/s41598-022-16748-5?fromPaywallRec=false
+  - All-optically controlled phased-array for ultrasonics. Nature Communications, https://www.nature.com/articles/s41467-025-63517-9
+  - An acoustofluidic device for the automated separation of platelet-reduced plasma from whole blood, https://www.nature.com/articles/s41378-024-00707-3
+  - An acoustofluidic embedding platform for rapid multiphase microparticle injection, https://www.nature.com/articles/s41467-025-59146-x
+  - An adjustable multi-scale single beam acoustic tweezer based on ultrahigh frequency ultrasonic transducer, https://pmc.ncbi.nlm.nih.gov/articles/PMC10309180/
+  - An Integrated 2D Ultrasound Phased Array Transmitter in CMOS with Pixel Pitch Matched Beamforming (PDF), https://bioee.ee.columbia.edu/wp-content/uploads/2021/07/An-Integrated-2D-Ultrasound-Phased-Array-Transmitter-in-CMOS-with-Pixel-Pitch-Matched-Beamforming.pdf
+  - A Novel Concept of a Phased-Array HIFU Transducer Optimized for MR-Guided Hepatic Ablation. PMC9235567, https://pmc.ncbi.nlm.nih.gov/articles/PMC9235567/
+  - A Review of Acoustofluidic Separation of Bioparticles, Biophysical Reviews (2023), https://link.springer.com/chapter/10.1007/978-3-031-79025-6_4
+  - A review of acoustofluidic separation of bioparticles, https://link.springer.com/article/10.1007/s12551-023-01112-2#Fig2
+  - Bessel beam region, https://pmc.ncbi.nlm.nih.gov/articles/PMC11983376/figure/fig2/
+  - Bessel Beam: Significance and Applications—A Progressive Review, https://pmc.ncbi.nlm.nih.gov/articles/PMC7697033/
+  - Decreased clot debris size and increased efficiency of acoustic vortex assisted high intensity focused ultrasound thrombolysis, https://www.researchgate.net/publication/345926012_Decreased_clot_debris_size_and_increased_efficiency_of_acoustic_vortex_assisted_high_intensity_focused_ultrasound_thrombolysis
+  - Design of a novel integrated microfluidic chip for continuous separation of circulating tumor cells from peripheral blood cells, https://www.nature.com/articles/s41598-022-20886-1?fromPaywallRec=false
+  - DEP: Interplay of acoustophoresis and dielectrophoresis in a standing surface acoustic wave field: from spherical to non-spherical particles, https://link.springer.com/article/10.1007/s10404-024-02762-8
+  - DEP: A Bioparticle Separator based on Dielectrophoretic Integrated with Acoustic Force: Design and Simulation, https://www.ijcaonline.org/archives/volume184/number3/dehghani-2022-ijca-921987.pdf
+  - Duke, Acoustofluidics Lab, https://acoustofluidics.pratt.duke.edu/publications
+  - Flexible micromachined ultrasound transducers (MUTs) for biomedical applications, https://www.nature.com/articles/s41378-024-00783-5
+  - Generating Bessel beams with broad depth-of-field by using phase-only acoustic holograms, https://www.nature.com/articles/s41598-019-56369-z
+  - High-Intensity Focused Ultrasound: A Review of Mechanisms and Clinical Applications, https://pmc.ncbi.nlm.nih.gov/articles/PMC8608284/
+  - High-Intensity Focused Ultrasound: Current Status for Image-Guided Therapy. PMC4640913, https://pmc.ncbi.nlm.nih.gov/articles/PMC4640913/
+  - HIFU/Histotripsy: Histotripsy: Recent Advances, Clinical Applications, and Future Prospects, https://pmc.ncbi.nlm.nih.gov/articles/PMC12469116/
+  - Integrated microfluidic platforms for extracellular vesicles: Separation, detection, and clinical translation, https://pmc.ncbi.nlm.nih.gov/articles/PMC12422758/
+  - Intravascular forward-looking ultrasound transducers for microbubble-mediated sonothrombolysis, https://www.nature.com/articles/s41598-017-03492-4#Sec2
+  - Isolation of exosomes from whole blood by integratingacoustics and microfluidics, https://duke.app.box.com/v/2017-10
+  - Label-free separation of peripheral blood mononuclear cells from whole blood by gradient acoustic focusing, https://www.nature.com/articles/s41598-024-59156-7?fromPaywallRec=false
+  - Manipulation with sound and vibration: A review on the micromanipulation system based on sub-MHz acoustic waves, https://www.sciencedirect.com/science/article/pii/S1350417723001530
+  - Numerical and experimental analysis of a hybrid material acoustophoretic device for manipulation of microparticles, https://www.nature.com/articles/s41598-021-01459-0.pdf
+  - Optical trap for both transparent and absorbing particles in air using a single shaped laser beam, https://opg.optica.org/ol/fulltext.cfm?uri=ol-40-12-2798
+  - Optimization of Acoustic Emitted Field of Transducer Array: 64-channel 26 MHz linear phased array. PubMed, https://pubmed.ncbi.nlm.nih.gov/24212014/
+	- Recent Advancements in High-Frequency Ultrasound Applications from Imaging to Microbeam Stimulation, https://www.mdpi.com/1424-8220/24/19/6471
+  - Red blood cell trapping using single-beam acoustic tweezers in the Rayleigh regime, https://www.sciencedirect.com/science/article/pii/S2589004223022551
+  - Self-focused ZnO transducers for ultrasonic biomicroscopy. PMC2442463, https://pmc.ncbi.nlm.nih.gov/articles/PMC2442463/
+  - Self-focused ZnO transducers for ultrasonic biomicroscopy,  https://pmc.ncbi.nlm.nih.gov/articles/PMC2685215/
+  - Single-Beam Acoustic Trapping of Red Blood Cells and Polystyrene Microspheres in Flowing Red Blood Cell Saline and Plasma Suspensions, https://www.umbjournal.org/article/S0301-5629(16)30422-7/abstract
+  - Single Beam Acoustical Tweezers Based on Focused Beams. Phys. Rev. Applied, https://hal.science/hal-03694321/document
+  - Single-Beam Acoustic Tweezers for Cell Biology. IEEE Xplore, https://ieeexplore.ieee.org/iel8/58/10713314/10669592.pdf
+  - Single-Beam Acoustic Tweezers for Cell Biology: Molecular to In Vivo Studies, https://pubmed.ncbi.nlm.nih.gov/39250365/
+  - Sonothrombolysis - Dissolving Thrombi by Interaction of the Drug and Ultrasound, https://ieeexplore.ieee.org/document/8502412
+  - Sonothrombolysis: State-of-the-Art and Potential Applications in Children, https://pmc.ncbi.nlm.nih.gov/articles/PMC10814591/
+  - Sonothrombolysis with an acoustic net-assisted boiling histotripsy: A proof-of-concept study. PMC10206501/, https://pmc.ncbi.nlm.nih.gov/articles/PMC10206501/
+  - Sonothrombolysis with an acoustic net-assisted boiling histotripsy: A proof-of-concept study, https://www.sciencedirect.com/science/article/pii/S1350417723001475
+  - Sustainable wafer-scale integration of epitaxial ZnO on silicon for piezoelectric devices, https://arxiv.org/abs/2503.14069
+  - Surface Acoustic Wave (SAW) Sensors: Physics, Materials, and Applications, https://pmc.ncbi.nlm.nih.gov/articles/PMC8839725/
+  - Ultrasound Triggered ZnO‐Based Devices for Tunable and Multifaceted Biomedical Applications, https://bazawiedzy.umcs.pl/info/article/UMCSffc08537076b4a16a0bf56d9fbd8fd63
+	- ZnO Deposition on Silicon and Porous Silicon Substrate via Radio Frequency Magnetron Sputtering, https://www.mdpi.com/2079-6412/13/11/1839
+  - ZnO Metal Oxide Semiconductor in Surface Acoustic Wave Sensors: A Review, PMC7570870, https://pmc.ncbi.nlm.nih.gov/articles/PMC7570870/
+  - ZnO Nanoarrays for Acoustofluidic Manipulation, https://pmc.ncbi.nlm.nih.gov/articles/PMC7415004/
 
   - Protein Atlas, 2023: NRP1 expression in plasma (0.1–1 nM), https://www.proteinatlas.org/ENSG00000099250-NRP1
   - Schauberger, 2003: The Water Wizard, https://archive.org/details/TheWaterWizard
