@@ -180,7 +180,7 @@
   - Acoustofluidics for biomedical applications, https://www.researchgate.net/publication/360082871_Acoustofluidics_for_biomedical_applications
   - Acoustofluidics for biomedical applications, https://par.nsf.gov/servlets/purl/10391293
   - Acoustofluidic Methods in Cell Analysis, https://www.sciencedirect.com/science/article/abs/pii/S0165993619302043
-	- Acoustofluidic Separation of Cells and Particles. Microsystems & Nanoengineering 5: 32, https://www.nature.com/articles/s41378-019-0064-3
+  - Acoustofluidic Separation of Cells and Particles. Microsystems & Nanoengineering 5: 32, https://www.nature.com/articles/s41378-019-0064-3
   - Acoustofluidics: Technology Advances and Applications from 2022 to 2024, https://pmc.ncbi.nlm.nih.gov/articles/PMC11983376/
   - Acoustic Tweezers, https://acoustofluidics.pratt.duke.edu/research/acoustic-tweezers
   - A high-throughput microfluidic device based on controlled incremental filtration to enable centrifugation-free, low extracorporeal volume leukapheresis, https://www.nature.com/articles/s41598-022-16748-5?fromPaywallRec=false
@@ -212,7 +212,7 @@
   - Numerical and experimental analysis of a hybrid material acoustophoretic device for manipulation of microparticles, https://www.nature.com/articles/s41598-021-01459-0.pdf
   - Optical trap for both transparent and absorbing particles in air using a single shaped laser beam, https://opg.optica.org/ol/fulltext.cfm?uri=ol-40-12-2798
   - Optimization of Acoustic Emitted Field of Transducer Array: 64-channel 26 MHz linear phased array. PubMed, https://pubmed.ncbi.nlm.nih.gov/24212014/
-	- Recent Advancements in High-Frequency Ultrasound Applications from Imaging to Microbeam Stimulation, https://www.mdpi.com/1424-8220/24/19/6471
+  - Recent Advancements in High-Frequency Ultrasound Applications from Imaging to Microbeam Stimulation, https://www.mdpi.com/1424-8220/24/19/6471
   - Red blood cell trapping using single-beam acoustic tweezers in the Rayleigh regime, https://www.sciencedirect.com/science/article/pii/S2589004223022551
   - Self-focused ZnO transducers for ultrasonic biomicroscopy. PMC2442463, https://pmc.ncbi.nlm.nih.gov/articles/PMC2442463/
   - Self-focused ZnO transducers for ultrasonic biomicroscopy,  https://pmc.ncbi.nlm.nih.gov/articles/PMC2685215/
@@ -227,7 +227,7 @@
   - Sustainable wafer-scale integration of epitaxial ZnO on silicon for piezoelectric devices, https://arxiv.org/abs/2503.14069
   - Surface Acoustic Wave (SAW) Sensors: Physics, Materials, and Applications, https://pmc.ncbi.nlm.nih.gov/articles/PMC8839725/
   - Ultrasound Triggered ZnO‐Based Devices for Tunable and Multifaceted Biomedical Applications, https://bazawiedzy.umcs.pl/info/article/UMCSffc08537076b4a16a0bf56d9fbd8fd63
-	- ZnO Deposition on Silicon and Porous Silicon Substrate via Radio Frequency Magnetron Sputtering, https://www.mdpi.com/2079-6412/13/11/1839
+  - ZnO Deposition on Silicon and Porous Silicon Substrate via Radio Frequency Magnetron Sputtering, https://www.mdpi.com/2079-6412/13/11/1839
   - ZnO Metal Oxide Semiconductor in Surface Acoustic Wave Sensors: A Review, PMC7570870, https://pmc.ncbi.nlm.nih.gov/articles/PMC7570870/
   - ZnO Nanoarrays for Acoustofluidic Manipulation, https://pmc.ncbi.nlm.nih.gov/articles/PMC7415004/
 
