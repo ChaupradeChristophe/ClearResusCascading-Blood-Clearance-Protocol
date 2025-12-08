@@ -89,7 +89,7 @@
     - Objective: Purify A+, A-, B+, B-, AB+, AB-, O+, O- Stocks
     - Details: Preserves A/B/Rh(D) Antigens, Platelets, Transfusion Compatibility
     - Validation: ELISA, Doppler/DLS, CRANAD-28, Thioflavin T
-  - Patients: Personalized Treatment: AFA Klamath (Phycocyanin), Astaxanthin, Berberine, Complements proteolytic enzymes (nattokinase, serrapeptase, lumbrokinase), Curcumin, C3G, EGCG, Fisetin, Fucoidan (Laminaria Japonica Brown Sea Weed Extract), Griffithsin (GRFT), NAC, NAD+ NAD precursors (NR/NMN), Quercetin, Q3G, Resveratrol / Pterostilbene, Sequestrant (Sequestrol), Shilajit & antibodies (sotrovimab), Spermidine, Spirulina, Urolithin A, for holistic blood purification.
+  - Patients: Personalized Treatment: AFA Klamath (Phycocyanin), Astaxanthin, Berberine, Complements proteolytic enzymes (nattokinase, serrapeptase, lumbrokinase), Curcumin, C3G, EGCG, Fisetin, Fucoidan (Laminaria Japonica Brown Sea Weed Extract), Griffithsin (GRFT), NAC, NAD+ NAD precursors (NR/NMN), Quercetin, Q3G, Resveratrol / Pterostilbene, Sequestrant (Sequestrol), Shilajit & antibodies (sotrovimab), Spermidine, Spirulina (Phycocyanin), Urolithin A, for holistic blood purification.
     - Objective: Clear NRP1/Aβ/Spike/FARM, including FPR/TLR-Binding Fragments, Blood Group-Specific
     - Details: Doppler/DLS Analysis, RL-Tuned Dosing, FRET Monitoring (Anti-A/B/Rh(D) Antibodies)
     - Validation: ELISA, CRANAD-28, Thioflavin T
@@ -153,8 +153,9 @@
   - Defining diverse spike-receptor interactions involved in SARS-CoV-2 entry: Mechanisms and therapeutic opportunities,https://www.sciencedirect.com/science/article/pii/S0042682225001205
   - DyLight Fluors - Technology and Product Guide, https://archive.ph/20131017210757/http://www.piercenet.com/guide/dylight-fluors-technology-product-guide#selection-1189.0-1189.45 
   - The Alexa Fluor Dye Series—Note 1.1, https://www.thermofisher.com/fr/fr/home/references/molecular-probes-the-handbook/technical-notes-and-product-highlights/the-alexa-fluor-dye-series.html
-    
-  
+  -  
+  - Molecular Interaction of Protein-Pigment C-Phycocyanin with Bovine Serum Albumin in a Gomphosis Structure Inhibiting Amyloid Formation,https://www.mdpi.com/1422-0067/21/21/8207
+  - 
   - Nikola Tesla U.S. Patent 1,329,559 - Valvular Conduit, https://teslauniverse.com/nikola-tesla/patents/us-patent-1329559-valvular-conduit
   - Tesla Valve Microfluidics, The Rise of Forgotten Technology, https://www.mdpi.com/2227-9040/11/4/256
   - A bio-fabricated tesla valves and ultrasound waves-powered blood plasma viscometer, https://www.frontiersin.org/journals/bioengineering-and-biotechnology/articles/10.3389/fbioe.2024.1394373/full
@@ -173,7 +174,7 @@
   - Tesla valves and capillary structures-activated thermal regulator, https://pmc.ncbi.nlm.nih.gov/articles/PMC10325955/
   - Tesla Valves in Micromixers, https://www.degruyterbrill.com/document/doi/10.1515/ijcre-2013-0106/html?lang=en&srsltid=AfmBOorHz1ZwgLCK2Lro8a01ml9c4kxtYsiifC6n6MJ0w2osdL4vYVfe
   - Transient Flow Dynamics in Tesla Valve Configurations: Insights from Computational Fluid Dynamics Simulations, https://www.mdpi.com/2073-4441/16/23/3492
-
+  - 
   - A 2.6 MHz phased array ultrasonic probe using 0.67 Pb(Mg/sub 1/3, https://www.semanticscholar.org/paper/A-2.6-MHz-phased-array-ultrasonic-probe-using-sub-1-Rhim-Jung/c3034aad10748f220f6ac610249e2cd3de886162
   - A Bioparticle Separator based on Dielectrophoretic Integrated with Acoustic Force: Design and Simulation, https://www.ijcaonline.org/archives/volume184/number3/dehghani-2022-ijca-921987.pdf
   - Acoustofluidic Actuation of Living Cells (2024). PMC 11052308, https://pmc.ncbi.nlm.nih.gov/articles/PMC11052308/
@@ -230,7 +231,7 @@
   - ZnO Deposition on Silicon and Porous Silicon Substrate via Radio Frequency Magnetron Sputtering, https://www.mdpi.com/2079-6412/13/11/1839
   - ZnO Metal Oxide Semiconductor in Surface Acoustic Wave Sensors: A Review, PMC7570870, https://pmc.ncbi.nlm.nih.gov/articles/PMC7570870/
   - ZnO Nanoarrays for Acoustofluidic Manipulation, https://pmc.ncbi.nlm.nih.gov/articles/PMC7415004/
-
+  - 
   - Protein Atlas, 2023: NRP1 expression in plasma (0.1–1 nM), https://www.proteinatlas.org/ENSG00000099250-NRP1
   - Schauberger, 2003: The Water Wizard, https://archive.org/details/TheWaterWizard
   - Haeckel, 1904: Art Forms in Nature, https://archive.org/details/ArtFormsOfNatureByErnstHaeckl
