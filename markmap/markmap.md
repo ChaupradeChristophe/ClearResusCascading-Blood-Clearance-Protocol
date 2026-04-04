@@ -89,7 +89,7 @@
     - Objective: Purify A+, A-, B+, B-, AB+, AB-, O+, O- Stocks
     - Details: Preserves A/B/Rh(D) Antigens, Platelets, Transfusion Compatibility
     - Validation: ELISA, Doppler/DLS, CRANAD-28, Thioflavin T
-  - Patients: Personalized Treatment: AFA Klamath (Phycocyanin), Astaxanthin, Berberine, Complements proteolytic enzymes (nattokinase, serrapeptase, lumbrokinase), Clitoria Ternatea (Butterfly Pea), Curcumin, C3G, EGCG, Fisetin, Fucoidan (Laminaria Japonica Brown Sea Weed Extract), Griffithsin (GRFT), NAC, NAD+ NAD precursors (NR/NMN), Quercetin, Q3G, Resveratrol / Pterostilbene, Sequestrant (Sequestrol), Shilajit & antibodies (sotrovimab), Spermidine, Spirulina (Phycocyanin), Urolithin A, for holistic blood purification.
+  - Patients: Personalized Treatment: AFA Klamath (Phycocyanin), Astaxanthin, Berberine, Capsaicin (CA), Complements proteolytic enzymes (nattokinase, serrapeptase, lumbrokinase), Clitoria Ternatea (Butterfly Pea), Curcumin, C3G, EGCG, Fisetin, Fucoidan (Laminaria Japonica Brown Sea Weed Extract), Griffithsin (GRFT), NAC, NAD+ NAD precursors (NR/NMN), Quercetin, Q3G, Resveratrol / Pterostilbene, Sequestrant (Sequestrol), Shilajit & antibodies (sotrovimab), Spermidine, Spirulina (Phycocyanin), Urolithin A, for holistic blood purification.
     - Objective: Clear NRP1/Aβ/Spike/FARM, including FPR/TLR-Binding Fragments, Blood Group-Specific
     - Details: Doppler/DLS Analysis, RL-Tuned Dosing, FRET Monitoring (Anti-A/B/Rh(D) Antibodies)
     - Validation: ELISA, CRANAD-28, Thioflavin T
