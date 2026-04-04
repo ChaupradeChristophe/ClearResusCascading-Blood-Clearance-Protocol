@@ -203,7 +203,7 @@ Compatible with blood groups A+, A-, B+, B-, AB+, AB-, O+, O-.
 	•	Objective: Purify A+, A-, B+, B-, AB+, AB-, O+, O- Stocks
 	•	Details: Preserves A/B/Rh(D) Antigens, Platelets, Transfusion Compatibility, Blood Group-Specific
 	•	Validation: ELISA, Doppler/DLS, CRANAD-28, Thioflavin T
- 	•	Patients: Personalized Treatment, Complements proteolytic enzymes (nattokinase, serrapeptase, lumbrokinase), Sequestrant (Sequestrol), Fucoidan (Laminaria Japonica Brown Sea Weed Extract, Griffithsin (GRFT), EGCG, NAC, Quercetin, Shilajit and antibodies (sotrovimab) for holistic blood purification. 
+ 	•	Patients: Personalized Treatment, Capsaicin (CA), Complements proteolytic enzymes (nattokinase, serrapeptase, lumbrokinase), Sequestrant (Sequestrol), Fucoidan (Laminaria Japonica Brown Sea Weed Extract, Griffithsin (GRFT), EGCG, NAC, Quercetin, Shilajit and antibodies (sotrovimab) for holistic blood purification. 
 	•	Objective: Clear NRP1/Aβ/Spike/FARM, including FPR/TLR-Binding Fragments
 	•	Details: Doppler/DLS Analysis, RL-Tuned Dosing, FRET Monitoring (Anti-A/B/Rh(D) Antibodies)
 	•	Validation: ELISA, CRANAD-28, Thioflavin T
@@ -230,7 +230,7 @@ Compatible with blood groups A+, A-, B+, B-, AB+, AB-, O+, O-.
 
 # Synergy & Biomimicry Redundancy
 
-	•	Synergy: Zwitterionic CNC unifies Steps 1-4, ensuring consistent debris handling (50-150 nm from Step 0) and ultra-clean plasma output. AI (CNN-Transformer, RL) optimizes CNC parameters (charge: +20 to +40 mV, pore size: 3-9 nm) across stages, integrating with Venturi spirals, resonators, and solvent recycling (>90% water/sulfobetaine). Complements proteolytic enzymes (nattokinase, serrapeptase, lumbrokinase), Sequestrant (Sequestrol), Fucoidan (Laminaria Japonica Brown Sea Weed Extract, Griffithsin (GRFT) and antibodies (sotrovimab) for holistic blood purification.
+	•	Synergy: Zwitterionic CNC unifies Steps 1-4, ensuring consistent debris handling (50-150 nm from Step 0) and ultra-clean plasma output. AI (CNN-Transformer, RL) optimizes CNC parameters (charge: +20 to +40 mV, pore size: 3-9 nm) across stages, integrating with Venturi spirals, resonators, and solvent recycling (>90% water/sulfobetaine). Capsaicin (CA), Complements proteolytic enzymes (nattokinase, serrapeptase, lumbrokinase), Sequestrant (Sequestrol), Fucoidan (Laminaria Japonica Brown Sea Weed Extract, Griffithsin (GRFT) and antibodies (sotrovimab) for holistic blood purification.
 	•	Biomimicry Redundancy: CNC’s 3-9 nm pores mimic diatom frustules, and φ-scaled (1.618033988749895) designs mimic natural spirals (e.g., nautilus shells), providing redundant mechanisms for capturing spike/FARM (3-20 nm) with <0.03% fouling and <0.01% residuals. Zwitterionic coatings mimic cell membrane properties, enhancing biocompatibility.
 	•	
 	•	Performance Metrics:
